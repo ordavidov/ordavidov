@@ -1,6 +1,5 @@
 Hi, I’m Orit Davidovich. I work at IBM as an applied math research scientist.<br>
-I spend my days thinking about reinforcement learning / transformers for combinatorial optimzation, while experimenting in hands-on ways.<br>
-I often spend a considerable amount of time thinking about how best to deploy and distribute stuff on a cluster.<br>
+I spend my days thinking about reinforcement learning / transformers for combinatorial optimzation, while experimenting in hands-on ways. I often spend a considerable amount of time thinking about how best to deploy and distribute stuff on a cluster.<br>
 You can reach me at orit.davidovich at ibm.com
 
 <!---
